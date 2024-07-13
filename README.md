@@ -133,6 +133,16 @@ npm run dev
 
 Para más detalles, consulta los respectivos `README.md` en las carpetas `frontend` y `backend`.
 
+## Equipo de Trabajo
+- **Diseño UX/UI**
+  - A
+- **Frontend**:
+  - A
+- **Backend**:
+  - Lorenzo Esteban Baeza Núñez
+- **Aplicaciones Móviles**
+  - A
+
 ## Contribuciones
 
 ¡Gracias por tu interés en contribuir a Dogtorhouse! Para comenzar, por favor lee nuestras [Guías de Contribución](CONTRIBUTING.md) y el [Código de Conducta](CODE_OF_CONDUCT.md).
